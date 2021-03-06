@@ -1,7 +1,7 @@
 
 
 
-A project dedicated to highlight React JS Component State Management
+A project dedicated to highlighting React JS Component State Management
 
 
 

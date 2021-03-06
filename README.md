@@ -1,7 +1,7 @@
 
 
 
-# Reverse a String using React JS and Component States
+A project dedicated to highlight React JS Component State Management
 
 
 
